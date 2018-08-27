@@ -3,8 +3,8 @@ With Entity Framework Classic you can consult, merge, save or delete your data f
 
 With features like QueryCached or QuerryDefered, you have control over when and how the query is executed either. These option also allow you to optimizing the round-trip between the application and the database by limitating redundant calls.
 
-## .NET Core Support
-EF6 and EF Core are two differents products and both have their own set of features. Since, EF Core is missing some key features from EF6 and that EF6 support is limited. That leaves developers with tough choices. EF Classic bring a new option to the table by letting you use EF6 inside .NET Core.
+## Compatible with .NET Core
+While EF6 and EF Core are both develop by Microsoft, they have two differents set of features. It is currently impossible to use EF6 inside .NET Core which leaves developers with tough choices. EF Classic bring a new option to the table by letting you use EF6 with .NET Core. Another advantage is that EF Classic continue to support EF6 but continously improving it.
 
 ## Features Comparaison
 Entity Framework Classic comes in two editions. A free communtity version and enterprise edition.
