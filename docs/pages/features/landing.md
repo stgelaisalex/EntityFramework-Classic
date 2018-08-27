@@ -1,5 +1,5 @@
 
-Entity Framework Classic comes in two editions. A free communtity version and paying enterprise edition.
+Entity Framework Classic comes in two editions. A free communtity version and enterprise edition.
 
 Here's an exercept of our most important features:
 
