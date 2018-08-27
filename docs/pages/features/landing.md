@@ -4,6 +4,7 @@ With Entity Framework Classic save you data faster by either using Bulk or Batch
 With features like QueryCached or QuerryDefered, you have control over when the query is executed either by controling the cache or it's execution window.
 
 ## .NET Core Support
+EF6 and EF Core are two differents products and both have their own set of features. Since, EF Core is missing some key features from EF6 and that EF6 support is limited. That leaves developers with tough choices. EF Classic bring a new option to the table by letting you use EF6 inside .NET Core.
 
 ## Features Comparaison
 Entity Framework Classic comes in two editions. A free communtity version and enterprise edition.
