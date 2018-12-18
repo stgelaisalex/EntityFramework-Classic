@@ -8,7 +8,7 @@
 ## SQL Server Example
  .NET Fiddle doesn't support SQL Server yet.
 
-However, this feature is under development by our company. We expect to be able to release a new version of .NET Fiddle that allows creating examples with SQL Server in September.
+However, this feature is under development by our company. We expect to be able to release a new version of .NET Fiddle that allows creating examples with SQL Server in 2019.
 
 ## SQL Server Compact Example
 ```csharp
@@ -30,4 +30,4 @@ using (var context = new EntityContext())
 ## Effort Example
  .NET Fiddle doesn't support Effort yet.
 
-However, this feature is under development by our company. We expect to be able to release a new version of .NET Fiddle that allows creating examples with Effort in September.
+However, this feature is under development by our company. We expect to be able to release a new version of .NET Fiddle that allows creating examples with Effort in 2019.
